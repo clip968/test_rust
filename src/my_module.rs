@@ -1,0 +1,1 @@
+pub static LOG_LEVEL: i32 = 0;
